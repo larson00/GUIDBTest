@@ -18,5 +18,6 @@ Future functionality includes a loop to scroll the teams, a way to display more 
 Image of the SQL File:
 ![My image](larson00.github.com/GUIDBTest\img\SQLImage.jpg)
 https://github.com/larson00/GUIDBTest/blob/master/src/SQLImage.JPG
+https://raw.githubusercontent.com/larson00/GUIDBTest/blob/master/src/SQLImage.JPG
 
 Image of the GUI after pressing View Team:
