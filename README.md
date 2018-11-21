@@ -2,8 +2,11 @@
 GUIDBTest -> Madden NFL 2019 rankings GUI + DB
 
 Brad Larson
+
 COP3003
+
 GUI Database
+
 Vanselow
 
 GUI Database project. This program takes data from an SQL file that is stored in a database and displays it. The file has rankings for NFL teams, obtained from https://www.ign.com/wikis/madden-nfl-19/Team_Ratings. As of now, it only displays the first team in the table. The GUI is all labels, some of which are just text displays for "Team" or "Division" and the rest that accept the label and display the appropriate data. 
