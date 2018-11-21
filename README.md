@@ -16,8 +16,8 @@ GUI Database project. This program takes data from an SQL file that is stored in
 Future functionality includes a loop to scroll the teams, a way to display more than 1 at a time, a way to update rankings based on weekly performance, a dropdown menu to pick a team, and aesthetic changes.
 
 Image of the SQL File:
-![My image](larson00.github.com/GUIDBTest\img\SQLImage.jpg)
-https://github.com/larson00/GUIDBTest/blob/master/src/SQLImage.JPG
-https://raw.githubusercontent.com/larson00/GUIDBTest/blob/master/src/SQLImage.JPG
+
+![alt text]https://github.com/larson00/GUIDBTest/blob/master/src/SQLImage.JPG
+
 
 Image of the GUI after pressing View Team:
