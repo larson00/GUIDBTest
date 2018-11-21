@@ -23,9 +23,14 @@ Image of the GUI after pressing View Team:
 ![alt view](https://github.com/larson00/GUIDBTest/blob/master/src/DBTeamDisplay.JPG)
 
 Future functionality includes:
+
   *a loop to scroll the teams 
+  
   *a way to display more than 1 at a time 
+  
   *a way to update rankings based on weekly performance
+  
   *a dropdown menu to pick a team 
+  
   *aesthetic changes.
 
