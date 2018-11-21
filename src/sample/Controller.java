@@ -4,7 +4,7 @@ package sample;
  * Controller Class. OnAction contains all functionality for the GUI.
  * Connection is made with database "tester" and data is displayed using Labels.
  * resultSet stores the data from the SQL table.
- * Data was gathered from the Madden NFL 2018 team rankings.
+ * Data was gathered from the Madden NFL 2019 team rankings.
  * 11/19/2018
  */
 import java.sql.Connection;
