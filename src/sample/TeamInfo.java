@@ -10,7 +10,7 @@ import javafx.beans.property.StringProperty;
  */
 public class TeamInfo {
 
-  //Declare variables for table columns
+  // Declare variables for table columns
   private StringProperty teamName;
   private StringProperty teamDivision;
   private StringProperty overallRank;
@@ -18,7 +18,7 @@ public class TeamInfo {
   private StringProperty defensiveRank;
   private StringProperty starterRank;
 
-  //Constructor
+  // Constructor
   public TeamInfo() {
     this.teamName = new SimpleStringProperty();
     this.teamDivision = new SimpleStringProperty();
